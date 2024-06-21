@@ -1,14 +1,7 @@
-# Practical examination
+# Patient Management Application
 
-Solve the provided problem, using object oriented programming, C++ and Qt.
+This is the application I had to solve as my final exam in OOP at 'Babes-Bolyai' University.
 
-The application must use layered architecture in order for functionalities to be graded.
+It is in C++, using layered architecture with the Observer design pattern.
 
-Do not forget to add the required tests and specifications.
-
-Using existing code is forbidden, you must start your application from scratch.
-
-For function documentation you may use:
-- http://doc.qt.io/qt-6/
-- https://en.cppreference.com/w/
-- https://www.cplusplus.com/
+It opens a window for each doctor read from the file, and that doctor can see his patients, while also seeing the patients that are awaiting investigation. Updates are seen live on all screens thanks to the Observer design pattern.
