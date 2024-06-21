@@ -1,0 +1,31 @@
+Cole;Picior rupt;Ortopedie;Alex;20.06.2024
+Razvan;Mana rupta;Ortopedie;Alex;19.05.2024
+Alina;Schizofrenie;Neurochirurgie;Robert;20.06.2024
+Malina;Schizofrenie majora;Neurochirurgie;Robert;10.05.2024
+;fefe;fefe;fefe;fefe
+;fefe;fefe;fefe;fefe
+;test;noname;test;test
+;test;noname;test;test
+;test;noname;test;test
+;test;noname;test;test
+Balog;Smecher;Ortopedie;Alex;23.06.2304
+Balog;Smecher;Ortopedie;Alex;23.06.2304
+Balog;Smecher;Ortopedie;Alex;23.06.2304
+Balog;Smecher;Ortopedie;Alex;23.06.2304
+Balog;smecher;Ortopedie;Alex;23.05.3022
+Balog;Undiagnosed;Undiagnosed;Alex;23.05.3022
+Brusli;Smecher si el;Ortopedie;Alex;23.04.2023
+Pacient Nebun;Nebun;Pediatrie;10.05.2024;
+Caleb;Boalaaa;Ortopedie;-;23.05.2023
+Caleb;Boalaaa;Ortopedie;Alex;23.03.2024
+bob;Bolnaaav;Pediatrie;;
+Endre;Bbb;Ortopedie;asdf;23.04.4044
+Bobbb;boooooaba;Pediatrie;aaaa;23.04.2024
+Boaaaba;bolnaaaav;Pediatrie;adfafdaf;23.04.2025
+Rikky;SI-A RUPT SPATELEEEE;Ortopedie;=;=
+Rikky;SI-A RUPT SPATELEEEE;Ortopedie;Robert;23.04.4444
+asf;BOOOOLNAV;Ortopedie;;23.06.2025
+Pacient englez;e bolnav grav;Ortopedie;sdgdsfgds;24.09.2024
+Pacient englez;e bolnav grav;Ortopedie;sdgdsfgds;24.09.2024
+Pacient englez;e bolnav grav;Ortopedie;sdgdsfgds;24.09.2024
+Pacient englez;e bolnav grav;Ortopedie;sdgdsfgds;24.09.2024
