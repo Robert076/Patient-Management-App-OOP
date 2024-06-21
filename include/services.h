@@ -1,37 +1,6 @@
 #include "repository.h"
 #include "observerManager.h"
 
-bool sortDate(Patient a, Patient b)
-{
-    int dayA = 0;
-    for (auto x : a.getAdmissionDate())
-        if (x == '.')
-            break;
-        else
-            dayA += x - '0';
-    int cnt = 0;
-    int monthA = 0;
-    for (auto x : a.getAdmissionDate())
-    {
-        if (x == '.' && cnt == 2)
-            break;
-        else if (x == '.')
-            cnt++;
-        else
-            monthA += x - '0';
-    }
-    int yearA = 0;
-    cnt = 0;
-    for (auto x : a.getAdmissionDate())
-    {
-        if (x == ' ')
-            break;
-        else
-            yearA = yearA * 10 + x - '0';
-    }
-    
-}
-
 class Services : public ObserverManager
 {
 private:
@@ -53,6 +22,8 @@ public:
     vector<Patient> getPatientsByDate()
     {
         vector<Patient> patients = repository.getPatients();
+        // #TODO
+
         return patients;
     }
     void addPatient(Patient p)
